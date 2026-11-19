@@ -1,0 +1,6 @@
+assemblyai
+python-dotenv
+streamlit
+pyttsx3
+google-genai
+streamlit-mic-recorder
